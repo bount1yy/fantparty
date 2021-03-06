@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+    background-color:#808080;
+}
+header {
+background-color:#FFFFFF;
+}
+header a {
+color:#FFFFFF;
+}
+h1 {
+color:#FFF0F5;
+text-decoration:underline;
+text-align: center;
+}
+footer {
+color:#FFFFFF;
+background-color:#A9A9A9;
+} 
+nav a {
+text-decoration:none;
+border: 5px solid #FFFFFF;
+margin:85px;
+padding:3px;
+border-radius:15px;
+background-color:#696969 ;
+}
+.feer {
+text-align: center;
+color: #FFFFFF;
+border: 5px solid #FFFFFF ;
+}
+.xlop {
+text-color:#FF0000;
+border:5px solid #FFFFFF;
+border-radius:15px;
+}
+.season {
+text-align: center;
+color: #FFFFFF;
+border:5px solid #FFFFFF; 
+}
+.pet {
+border:5px solid #FFFFFF;
+border-radius:15px;
+}
+.fon {
+border:5px solid #FFFFFF;
+border-radius:15px;
+}
+.fes {
+border:5px solid #FFFFFF;
+border-radius:15px;
+}
+.xlopy {
+color:red;
+}
+.pod {
+border:5px solid #696969;
+border-radius:15px;
+}
+.kor {
+border:5px solid #FFFFFF;
+border-radius:15px;
+}
+.prod {
+color:#FFFFFF;
+}
+.opt {
+color:#FFFFFF;
+}
+.kak {
+color:#FFFFFF;
+}
+.okom {
+color:#FFFFFF;
+}
+.kont {
+color:#FFFFFF;
+}
+.nave {
+color:#FFFFFF
